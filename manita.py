@@ -21,7 +21,7 @@ if platform.system() == 'Windows':
 else :
 	print("""
 	'\033[4;34m'
- TEAM ASSASSIN is Presenting to you :
+ TEAM A is Presenting to you :
 
 ▀▀█▀▀ ▒█▀▀▀ ░█▀▀█ ▒█▀▄▀█ 　 ░█▀▀█ ▒█▀▀▀█ 
 ░▒█░░ ▒█▀▀▀ ▒█▄▄█ ▒█▒█▒█ 　 ▒█▄▄█ ░▀▀▀▄▄ 
